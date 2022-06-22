@@ -1,1 +1,2 @@
 # DCScragor
+go run .
