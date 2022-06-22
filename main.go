@@ -13,3 +13,7 @@ var (
 func main() {
 	ConnectToDC()
 }
+
+// TO DO
+//
+// Logging mechanism will be optimized. It logs every time in while loop.
