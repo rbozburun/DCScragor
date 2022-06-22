@@ -10,8 +10,8 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-var token = "OTg4MzkwNDQ5NDkwMzI5NjUx.G8siAD.S8z6NHdUXci-JA8OsPT6Ilq1p4VUoobqaxAK-U"
-var botChID = "989290878474547270"
+var token = "YOUR TOKEN"
+var botChID = "CHANNEL ID"
 var Dg *discordgo.Session
 
 func initSession() {
